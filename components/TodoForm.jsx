@@ -14,21 +14,22 @@ export default function TodoForm() {
   return (
     <form className="form my-6" onSubmit={handleSubmit}>
       <div className="flex flex-col text-sm mb-2">
-        <label htmlFor="todo" className="font-bold mb-2 text-gray-800 ">
+        <label htmlFor="todo" className="font-bold mb-2 text-blue-200">
           Add Todo
         </label>
         <input
           type="text"
           name="todo"
           value={todo}
-          placeholder="ex. Learn about authentication in Next.js"
+          placeholder="ex. Learn more about Next.js"
           className=" appearance-none border border-gray-200 p-2 focus:outline-none focus:border-gray-500 rounded-lg "
           onChange={(e) => setTodo(e.target.value)}
+          autoComplete="off"
         />
       </div>
       <button
         type="submit"
-        className=" w-full rounded bg-blue-500 hover:bg-blue-600 text-white py-2 px-4"
+        className="w-full rounded bg-blue-500 hover:bg-blue-600 text-white py-2 px-4"
       >
         Submit
       </button>

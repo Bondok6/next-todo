@@ -11,7 +11,7 @@ const Home = ({ initialTodos }) => {
 
   useEffect(() => {
     setTodos(initialTodos);
-  }, []);
+  }, [setTodos, initialTodos]);
 
   return (
     <>

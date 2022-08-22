@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background-color: #222;
+  color: #fff;
+  margin: 0 1rem;
+}
+
+input {
+  color: #000;
+}
