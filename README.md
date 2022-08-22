@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Taste Food
+
+> The Taste food web app is our JavaScript capstone project, Taste food is a web application based on an external food API [TheMealDB](https://www.themealdb.com/api.php), showing data about different types of foods and we used [involvement](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) API to record the different user interactions (likes, comments).
+
+
+https://user-images.githubusercontent.com/45231276/152669517-b90138a3-32d6-4843-a4da-aa01634e81d2.mp4
+
+
+## Built With
+
+- Next.js
+- Airtable
+- Tailwind CSS
+
+## Additional Used
+
+- API
+- ES6 
+- Webpack
+- Linter
+
+## Live Demo
+
+[Next Todo Link]()
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running follow these simple example steps.
 
 ```bash
-npm run dev
-# or
-yarn dev
+> git clone git@github.com:Bondok6/next-todo.git
+> cd next-todo
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To run the project.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+$ npm install
+$ npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Authors
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+👤 **Kyrillos Hany**
 
-## Learn More
+- GitHub: [@Bondok6](https://github.com/Bondok6)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions, issues, and feature requests are welcome!
 
-## Deploy on Vercel
+Feel free to check the [issues page](../../issues/).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Show your support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
