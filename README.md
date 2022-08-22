@@ -1,6 +1,6 @@
 # Next Todo
 
-> #### My first Next.js app, I built a Todo App with [Airtable](https://airtable.com/) for data storage and [Tailwind CSS](https://tailwindcss.com/) for Styling 💯
+> #### My first Next.js App, I built a Todo App with [Airtable](https://airtable.com/) for data storage and [Tailwind CSS](https://tailwindcss.com/) for Styling 💯
 
 
 https://user-images.githubusercontent.com/45231276/185999473-a7674ac0-c0de-4e4b-a02a-3a19dbf4beb4.mp4
