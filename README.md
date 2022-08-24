@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/45231276/185999473-a7674ac0-c0de-4e4b-
 - Next.js
 - Airtable
 - Tailwind CSS
+- Vercel (Deploy)
 
 ## Additional Used
 
@@ -21,7 +22,7 @@ https://user-images.githubusercontent.com/45231276/185999473-a7674ac0-c0de-4e4b-
 
 ## Live Demo
 
-[Next Todo Link]()
+[Next Todo Link](https://next-todo-cuhqqcug0-bondok6.vercel.app/)
 
 ## Getting Started
 
