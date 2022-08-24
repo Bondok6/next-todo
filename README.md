@@ -22,7 +22,9 @@ https://user-images.githubusercontent.com/45231276/185999473-a7674ac0-c0de-4e4b-
 
 ## Live Demo
 
-[Next Todo Link](https://next-todo-cuhqqcug0-bondok6.vercel.app/)
+[Next Todo App Link](https://next-todo-cuhqqcug0-bondok6.vercel.app/)
+[Airtable Link](https://airtable.com/shrmrhsJDfwHIwNT7/tblwoEsnYFlgTynzZ/viwlOJhHSvheHBXD8?blocks=hide)
+
 
 ## Getting Started
 
